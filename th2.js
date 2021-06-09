@@ -12,3 +12,4 @@ document.write('<br/>');
 document.write('dien tich: =' +area);
 
 
+

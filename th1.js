@@ -11,7 +11,7 @@
 // document.write('<br/>');
 // document.write('s = ' + s);
 
-//bai tap 2;
+// //bai tap 2;
 // let width = 20;
 // let height = 10;
 // let area = width * height;
